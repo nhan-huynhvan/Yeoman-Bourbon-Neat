@@ -1,0 +1,6 @@
+Bourbon/.sass-cache/*
+Bourbon/.tmp/*
+Bourbon/bower_components/*
+Bourbon/dist/*
+Bourbon/node_modules/*
+Bourbon/test/*
